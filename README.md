@@ -1,1 +1,1 @@
-# Django-traing-a-random-password-generator
+# Django-random-password-generator
